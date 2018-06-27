@@ -12,6 +12,3 @@ Includes simple sorting algorithms of Bubble Sort, Insertion Sort, and Selection
 
 ## Search.cpp
 Includes simple searching algorithms of Binary Search and Sequential Search.
-
-## DivideConquer.cpp
-Includes examples of Mergesort and QuickSort, two divide and conquer algorithms. The algorithms divide an input set into several subproblems of the same type and similar size. The subproblems are then solved either top-down, bottom-up, or recursively.
