@@ -12,3 +12,6 @@ Includes simple sorting algorithms of Bubble Sort, Insertion Sort, and Selection
 
 ## Search.cpp
 Includes simple searching algorithms of Binary Search and Sequential Search.
+
+## share.c
+Forking child processes in a timely manner to read and write to a file while manipulating the data held within.
